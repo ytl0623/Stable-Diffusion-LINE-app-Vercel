@@ -3,3 +3,4 @@
 
 ## References
 - https://www.wongwonggoods.com/all-posts/wongwonglikes/portfolio/personal_project/gpt-linebot-python-flask-for-vercel/
+- https://github.com/JokerWuXin/ChatGpt-LineBot
